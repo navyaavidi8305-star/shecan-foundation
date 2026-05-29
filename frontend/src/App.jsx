@@ -45,7 +45,7 @@ try{
 
 await axios.post(
 
-"http://localhost:5000/api/contact",
+"https://shecan-api.onrender.com/api/contact",
 
 form
 
